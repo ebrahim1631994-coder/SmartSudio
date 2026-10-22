@@ -1,0 +1,387 @@
+{
+ "packs": [
+  {
+   "id": "pre-20261025-g5",
+   "name": "G5 - Hydrosphere and Atmosphere",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Most of Earth's water is found in:",
+     "opts": [
+      "Rivers and lakes",
+      "Oceans",
+      "Underground wells",
+      "Glaciers only"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The hydrosphere includes:",
+     "opts": [
+      "Only oceans",
+      "Only drinking water",
+      "All the water on Earth's surface and underground",
+      "Only clouds"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "The atmosphere is:",
+     "opts": [
+      "The layer of gases that surrounds Earth",
+      "The water in oceans",
+      "Earth's solid outer rock layer",
+      "The empty space beyond the Moon"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The most abundant gas in Earth's atmosphere is:",
+     "opts": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "About what percentage of Earth's water is salty ocean water?",
+     "opts": [
+      "About 3%",
+      "About 25%",
+      "About 50%",
+      "About 97%"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Most of Earth's FRESH water is stored in:",
+     "opts": [
+      "Rivers",
+      "Ice caps and glaciers",
+      "Lakes",
+      "Rain clouds"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Water that soaks into the ground and collects in spaces in rock and soil is called:",
+     "opts": [
+      "Runoff",
+      "Groundwater",
+      "Vapor",
+      "Condensation"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Water moves from the ocean into the atmosphere mainly by:",
+     "opts": [
+      "Precipitation",
+      "Condensation",
+      "Evaporation",
+      "Freezing"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Clouds form when water vapor in the air:",
+     "opts": [
+      "Cools and condenses into tiny droplets",
+      "Heats up and disappears",
+      "Turns directly into icebergs",
+      "Falls as rain immediately"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Rain, snow, sleet, and hail are all forms of:",
+     "opts": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Transpiration"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "The energy that drives the water cycle comes from:",
+     "opts": [
+      "Wind",
+      "The Sun",
+      "Earth's core",
+      "The Moon"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Which is an example of the hydrosphere and atmosphere interacting?",
+     "opts": [
+      "A volcano erupting lava",
+      "Ocean water evaporating into the air",
+      "Roots growing into soil",
+      "A glacier carving a valley"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Weather takes place in the:",
+     "opts": [
+      "Hydrosphere",
+      "Geosphere",
+      "Atmosphere",
+      "Biosphere"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Droplets of water forming on the outside of a cold glass is an example of:",
+     "opts": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Sublimation"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "When a long drought happens, living things are affected because:",
+     "opts": [
+      "The hydrosphere, atmosphere, and biosphere are connected",
+      "Plants make their own rain",
+      "The geosphere stops moving",
+      "Animals can live without water"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "blanks",
+     "q": "The **hydrosphere** is made up of all the water on Earth."
+    },
+    {
+     "type": "blanks",
+     "q": "The **atmosphere** is the blanket of gases that surrounds Earth."
+    },
+    {
+     "type": "blanks",
+     "q": "Most of the gas in the atmosphere is **nitrogen**."
+    },
+    {
+     "type": "blanks",
+     "q": "Water enters the air as vapor through **evaporation**."
+    },
+    {
+     "type": "blanks",
+     "q": "Water falling from clouds as rain, snow, sleet, or hail is called **precipitation**."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261025-g7",
+   "name": "G7 - Moving Continents",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "The scientist who proposed the hypothesis of continental drift was:",
+     "opts": [
+      "Charles Darwin",
+      "Alfred Wegener",
+      "Isaac Newton",
+      "Louis Pasteur"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener's name for the ancient supercontinent was:",
+     "opts": [
+      "Laurasia",
+      "Gondwana",
+      "Pangaea",
+      "Rodinia"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "According to continental drift, today's continents:",
+     "opts": [
+      "Have always been fixed in place",
+      "Were once joined together and slowly moved apart",
+      "Formed only a few thousand years ago",
+      "Move only during earthquakes"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The matching coastlines of South America and Africa suggested to Wegener that the continents:",
+     "opts": [
+      "Are sinking",
+      "Once fit together like puzzle pieces",
+      "Are growing taller",
+      "Have the same weather"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Fossils of the freshwater reptile Mesosaurus are found only in South America and Africa. This supports drift because:",
+     "opts": [
+      "Mesosaurus could fly across the ocean",
+      "Mesosaurus could swim across the salty Atlantic",
+      "The two continents were likely joined when Mesosaurus lived",
+      "Fossils can move on their own"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Which is NOT evidence Wegener used for continental drift?",
+     "opts": [
+      "Matching fossils on different continents",
+      "Matching rock formations across oceans",
+      "Satellite images of moving plates",
+      "Climate clues like glacial deposits in warm regions"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Glacial deposits and scratches found in warm regions like India suggest that:",
+     "opts": [
+      "Glaciers once covered these areas when they were closer to the poles",
+      "India has always been frozen",
+      "Glaciers grow in deserts",
+      "Ice ages happen every year"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The plant fossil Glossopteris was found across Africa, South America, India, Australia, and Antarctica because:",
+     "opts": [
+      "Its seeds floated across oceans to all these lands",
+      "These lands were once connected in one landmass",
+      "It was planted by early humans",
+      "It grows only near the equator"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener's hypothesis was first rejected mainly because he could not explain:",
+     "opts": [
+      "That continents exist",
+      "What force could move the continents",
+      "That fossils exist",
+      "That oceans are salty"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The theory that later explained how continents move is called:",
+     "opts": [
+      "Plate tectonics",
+      "Natural selection",
+      "Relativity",
+      "Cell theory"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Earth's rigid outer layer, broken into pieces called plates, is the:",
+     "opts": [
+      "Asthenosphere",
+      "Lithosphere",
+      "Inner core",
+      "Hydrosphere"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Tectonic plates slowly slide over a softer, partially melted layer of the mantle called the:",
+     "opts": [
+      "Crust",
+      "Outer core",
+      "Asthenosphere",
+      "Atmosphere"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "The slow circulation of material in the mantle that helps drive plate movement is caused by:",
+     "opts": [
+      "Magnetism",
+      "Convection currents from heat",
+      "Ocean tides",
+      "Wind"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Continents today move at about the rate of:",
+     "opts": [
+      "A few centimeters per year",
+      "A few meters per day",
+      "A kilometer per year",
+      "They no longer move"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Where two plates move apart under the ocean, magma rises and forms:",
+     "opts": [
+      "Trenches only",
+      "Mid-ocean ridges and new crust",
+      "Coral reefs",
+      "Tsunamis"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "blanks",
+     "q": "**Alfred Wegener** proposed the hypothesis of continental drift."
+    },
+    {
+     "type": "blanks",
+     "q": "Wegener called the ancient supercontinent **Pangaea**."
+    },
+    {
+     "type": "blanks",
+     "q": "Matching **fossils** of the same species on distant continents were key evidence for drift."
+    },
+    {
+     "type": "blanks",
+     "q": "Wegener could not explain the **force** that moves the continents."
+    },
+    {
+     "type": "blanks",
+     "q": "Heat-driven **convection** currents in the mantle help move tectonic plates."
+    }
+   ]
+  }
+ ],
+ "decks": []
+}
