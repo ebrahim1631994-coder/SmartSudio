@@ -1,0 +1,1 @@
+# Week 11 staging (Nov 8-12): G5 Topic 4 Earths Water L1 Water Cycle deck, removed from the 2026-10-25 pack on Oct 23 after Week 9 correction (Sunday Oct 25 was a holiday; Water Cycle is Week 11 material).
