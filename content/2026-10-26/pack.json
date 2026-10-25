@@ -1,7 +1,7 @@
 {
  "packs": [
   {
-   "id": "pre-20261025-g5",
+   "id": "pre-20261026-g5",
    "name": "G5 - Hydrosphere and Atmosphere",
    "questions": [
     {
@@ -192,7 +192,198 @@
    ]
   },
   {
-   "id": "pre-20261025-g7",
+   "id": "pre-20261026-g6",
+   "name": "G6 - Inheritance",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "The passing of traits from parents to offspring is called:",
+     "opts": [
+      "variation",
+      "inheritance",
+      "adaptation",
+      "selection"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A characteristic of an organism, like eye color or height, is a:",
+     "opts": [
+      "gene",
+      "trait",
+      "allele",
+      "cell"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A trait you are born with is:",
+     "opts": [
+      "acquired",
+      "learned",
+      "inherited",
+      "trained"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Which of these is an ACQUIRED trait?",
+     "opts": [
+      "dimples",
+      "blood type",
+      "reading",
+      "attached earlobes"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A segment of DNA that carries the instructions for a trait is a:",
+     "opts": [
+      "chromosome",
+      "gene",
+      "nucleus",
+      "protein"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The different versions of a gene are called:",
+     "opts": [
+      "traits",
+      "alleles",
+      "cells",
+      "mutations"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A dominant allele shows its trait:",
+     "opts": [
+      "only when two copies are present",
+      "whenever it is present",
+      "never",
+      "only in plants"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "In a Tt x Tt cross, the chance of a short (tt) offspring is:",
+     "opts": [
+      "0%",
+      "25%",
+      "50%",
+      "75%"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The scientist who first discovered patterns of inheritance using pea plants was:",
+     "opts": [
+      "Darwin",
+      "Mendel",
+      "Pasteur",
+      "Newton"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A child can show a trait that neither parent shows because:",
+     "opts": [
+      "both parents carried a hidden recessive allele",
+      "traits skip DNA",
+      "the trait is acquired",
+      "mutations always happen"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "In genetics, a capital letter (T) stands for the __________ allele.",
+     "opts": [
+      "recessive",
+      "dominant",
+      "hidden",
+      "weak"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A Punnett square is used to:",
+     "opts": [
+      "measure plant height",
+      "predict the traits of offspring",
+      "draw chromosomes",
+      "count mutations"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The trait you actually see, like brown eyes, is called the:",
+     "opts": [
+      "genotype",
+      "phenotype",
+      "allele",
+      "chromosome"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "If T is tall and t is short, the genotype of a pure (homozygous) tall plant is:",
+     "opts": [
+      "Tt",
+      "tt",
+      "TT",
+      "tT"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Differences in traits among members of the same species are called:",
+     "opts": [
+      "inheritance",
+      "variation",
+      "dominance",
+      "mutation"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "blanks",
+     "q": "You inherit half of your genes from your mother and half from your **father**."
+    },
+    {
+     "type": "blanks",
+     "q": "An allele that shows its trait only when no dominant allele is present is called **recessive**."
+    },
+    {
+     "type": "blanks",
+     "q": "A **Punnett** square is a chart used to predict the traits of offspring."
+    },
+    {
+     "type": "blanks",
+     "q": "A long thread of DNA found in the nucleus is called a **chromosome**."
+    },
+    {
+     "type": "blanks",
+     "q": "Traits you learn during your life, like swimming, are **acquired** traits."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261026-g7",
    "name": "G7 - Moving Continents",
    "questions": [
     {
@@ -385,9 +576,19 @@
  ],
  "decks": [
   {
-   "id": "20261025-g7",
-   "name": "G7_Moving_Continents_25Oct.pptx",
-   "file": "G7_Moving_Continents_25Oct.pptx"
+   "id": "20261026-g5",
+   "name": "G5_Hydrosphere_Atmosphere_26Oct.pptx",
+   "file": "G5_Hydrosphere_Atmosphere_26Oct.pptx"
+  },
+  {
+   "id": "20261026-g6",
+   "name": "G6_Inheritance_26Oct.pptx",
+   "file": "G6_Inheritance_26Oct.pptx"
+  },
+  {
+   "id": "20261026-g7",
+   "name": "G7_Moving_Continents_26Oct.pptx",
+   "file": "G7_Moving_Continents_26Oct.pptx"
   }
  ]
 }
