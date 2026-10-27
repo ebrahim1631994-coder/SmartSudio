@@ -1,0 +1,780 @@
+{
+ "packs": [
+  {
+   "id": "pre-20261028-g5",
+   "name": "G5 - Hydrosphere and Atmosphere",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Most of Earth's water is found in the:",
+     "opts": [
+      "rivers",
+      "oceans",
+      "lakes",
+      "glaciers"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "About 97% of Earth's water is:",
+     "opts": [
+      "fresh water",
+      "salt water",
+      "frozen water",
+      "groundwater"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Only about 3% of Earth's water is:",
+     "opts": [
+      "salt water",
+      "ocean water",
+      "fresh water",
+      "rain water"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Evaporation is the process in which:",
+     "opts": [
+      "water vapor cools into droplets",
+      "liquid water changes into water vapor",
+      "water falls from clouds",
+      "ice melts into rivers"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Rain, snow, sleet and hail are all forms of:",
+     "opts": [
+      "condensation",
+      "evaporation",
+      "precipitation",
+      "runoff"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "All the water on Earth's surface makes up the:",
+     "opts": [
+      "atmosphere",
+      "geosphere",
+      "biosphere",
+      "hydrosphere"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "The hydrosphere includes oceans, rivers, lakes and:",
+     "opts": [
+      "glaciers",
+      "winds",
+      "mountains",
+      "clouds of gas"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Which of these is NOT part of the hydrosphere?",
+     "opts": [
+      "oceans",
+      "rivers",
+      "glaciers",
+      "wind"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "The atmosphere is important to us because it:",
+     "opts": [
+      "holds all of Earth's water",
+      "contains the air we breathe and blocks harmful rays",
+      "makes rocks",
+      "causes earthquakes"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Clouds are made of:",
+     "opts": [
+      "smoke",
+      "tiny water droplets",
+      "salt",
+      "steam from volcanoes"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Most evaporation in the water cycle happens over the:",
+     "opts": [
+      "oceans",
+      "deserts",
+      "mountains",
+      "forests"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The Sun heats ocean water and it rises into the air as:",
+     "opts": [
+      "rain",
+      "clouds",
+      "water vapor",
+      "snow"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "People get most of their usable fresh water from:",
+     "opts": [
+      "ocean water",
+      "rivers, lakes and groundwater",
+      "ice caps",
+      "clouds"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Which of these is a form of precipitation?",
+     "opts": [
+      "sleet",
+      "wind",
+      "fog lifting",
+      "evaporation"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Wind helps the water cycle by:",
+     "opts": [
+      "carrying clouds and water vapor",
+      "stopping the rain",
+      "heating the oceans",
+      "freezing rivers"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "blanks",
+     "q": "About **97** percent of Earth's water is salt water."
+    },
+    {
+     "type": "blanks",
+     "q": "**Evaporation** changes liquid water into water vapor."
+    },
+    {
+     "type": "blanks",
+     "q": "Rain, snow, sleet and hail are forms of **precipitation**."
+    },
+    {
+     "type": "blanks",
+     "q": "The **hydrosphere** is all the water on Earth's surface."
+    },
+    {
+     "type": "blanks",
+     "q": "The atmosphere contains the air we breathe and blocks harmful **rays**."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261028-g6",
+   "name": "G6 - Inheritance",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "The passing of traits from parents to offspring is called:",
+     "opts": [
+      "variation",
+      "inheritance",
+      "adaptation",
+      "selection"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A characteristic of an organism, like eye color or height, is a:",
+     "opts": [
+      "gene",
+      "trait",
+      "allele",
+      "cell"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A trait you are born with is:",
+     "opts": [
+      "acquired",
+      "learned",
+      "inherited",
+      "trained"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Which of these is an ACQUIRED trait?",
+     "opts": [
+      "dimples",
+      "blood type",
+      "reading",
+      "attached earlobes"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A segment of DNA that carries the instructions for a trait is a:",
+     "opts": [
+      "chromosome",
+      "gene",
+      "nucleus",
+      "protein"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The different versions of a gene are called:",
+     "opts": [
+      "traits",
+      "alleles",
+      "cells",
+      "mutations"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A dominant allele shows its trait:",
+     "opts": [
+      "only when two copies are present",
+      "whenever it is present",
+      "never",
+      "only in plants"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The scientist who first discovered patterns of inheritance using pea plants was:",
+     "opts": [
+      "Darwin",
+      "Mendel",
+      "Pasteur",
+      "Newton"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "You inherit half of your genes from your mother and half from your:",
+     "opts": [
+      "grandmother",
+      "brother",
+      "father",
+      "uncle"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A chart used to predict the traits of offspring is a:",
+     "opts": [
+      "Punnett square",
+      "bar graph",
+      "food web",
+      "family photo"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Differences in traits among members of the same species are called:",
+     "opts": [
+      "mutations",
+      "variation",
+      "pollination",
+      "erosion"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "In genetics, a capital letter like T stands for the ____ allele.",
+     "opts": [
+      "recessive",
+      "hidden",
+      "dominant",
+      "weak"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A long thread of DNA found in the nucleus is called a:",
+     "opts": [
+      "chromosome",
+      "gene",
+      "ribosome",
+      "cell wall"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Which of these is an inherited trait?",
+     "opts": [
+      "speaking English",
+      "riding a bike",
+      "blood type",
+      "a scar"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A recessive allele shows its trait only when:",
+     "opts": [
+      "a dominant allele is present",
+      "no dominant allele is present",
+      "it is copied twice",
+      "the parent is tall"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "blanks",
+     "q": "A **gene** is a segment of DNA that carries the instructions for a trait."
+    },
+    {
+     "type": "blanks",
+     "q": "The different versions of a gene are called **alleles**."
+    },
+    {
+     "type": "blanks",
+     "q": "You inherit half of your genes from your **father**."
+    },
+    {
+     "type": "blanks",
+     "q": "A **Punnett** square is a chart used to predict the traits of offspring."
+    },
+    {
+     "type": "blanks",
+     "q": "Traits you learn during your life are called **acquired** traits."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261028-g7",
+   "name": "G7 - Moving Continents",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "The scientist who proposed the idea of continental drift was:",
+     "opts": [
+      "Alfred Wegener",
+      "Charles Darwin",
+      "Albert Einstein",
+      "Edwin Hubble"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The ancient supercontinent was called:",
+     "opts": [
+      "Laurasia",
+      "Gondwana",
+      "Pangaea",
+      "Panthalassa"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Which is NOT evidence for continental drift?",
+     "opts": [
+      "matching coastlines",
+      "identical fossils on separate continents",
+      "matching rock layers",
+      "the phases of the Moon"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "The supercontinent Pangaea existed about:",
+     "opts": [
+      "300 million years ago",
+      "10,000 years ago",
+      "4.6 billion years ago",
+      "1 million years ago"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Fossils of the same plant (Glossopteris) on lands far apart suggest that:",
+     "opts": [
+      "plants can swim across oceans",
+      "the continents were once joined",
+      "the oceans are shallow",
+      "the climate never changes"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener's idea was rejected at first mainly because he:",
+     "opts": [
+      "had no evidence",
+      "could not explain HOW the continents move",
+      "used fake fossils",
+      "used wrong maps"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Continents sit and move on giant pieces of Earth's outer layer called:",
+     "opts": [
+      "the inner core",
+      "plates",
+      "ocean currents",
+      "the atmosphere"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The slow movement of Earth's plates is explained today by the theory of:",
+     "opts": [
+      "plate tectonics",
+      "gravity alone",
+      "erosion",
+      "magnetism"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Matching mountain ranges across oceans (the Appalachians and Scotland) support the idea of:",
+     "opts": [
+      "erosion",
+      "continental drift",
+      "ocean tides",
+      "volcanic islands"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Glacial evidence found in hot, dry Africa shows that Africa:",
+     "opts": [
+      "was once closer to the South Pole",
+      "was always hot",
+      "never had any ice",
+      "moved only yesterday"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Pangaea is a Greek word meaning:",
+     "opts": [
+      "all lands",
+      "moving seas",
+      "old rocks",
+      "one ocean"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener noticed that the coasts of South America and ____ fit together.",
+     "opts": [
+      "Africa",
+      "Australia",
+      "Asia",
+      "Europe"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The fossil freshwater reptile found in both South America and Africa is:",
+     "opts": [
+      "Mesosaurus",
+      "Tyrannosaurus",
+      "Glossopteris",
+      "Mosasaurus"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Continents move about as fast as your ____ grow.",
+     "opts": [
+      "hair",
+      "fingernails",
+      "teeth",
+      "bones"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener proposed his idea of continental drift in:",
+     "opts": [
+      "1960",
+      "1912",
+      "2001",
+      "1859"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "blanks",
+     "q": "**Wegener** proposed the idea of continental drift in 1912."
+    },
+    {
+     "type": "blanks",
+     "q": "The supercontinent **Pangaea** means \"all lands\" in Greek."
+    },
+    {
+     "type": "blanks",
+     "q": "The fossil reptile **Mesosaurus** is found in both South America and Africa."
+    },
+    {
+     "type": "blanks",
+     "q": "Matching **fossils** on different continents are evidence that the lands were once joined."
+    },
+    {
+     "type": "blanks",
+     "q": "Glacial evidence in warm Africa shows it was once closer to the South **Pole**."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261028-g9",
+   "name": "G9 - Human Population",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "The four factors that change a population's size are:",
+     "opts": [
+      "birthrate, death rate, immigration and emigration",
+      "food, water, shelter and space",
+      "predators, prey, climate and disease",
+      "births, deaths, sunlight and soil"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The movement of individuals INTO a population is called:",
+     "opts": [
+      "emigration",
+      "immigration",
+      "extinction",
+      "adaptation"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The movement of individuals OUT of a population is called:",
+     "opts": [
+      "immigration",
+      "emigration",
+      "mutation",
+      "competition"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Population density is:",
+     "opts": [
+      "the number of species in an area",
+      "the number of individuals living in a given area",
+      "the total weight of a population",
+      "the speed of population growth"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "If 500 deer live in an area of 50 square kilometers, the population density is:",
+     "opts": [
+      "10 deer per km2",
+      "50 deer per km2",
+      "100 deer per km2",
+      "500 deer per km2"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The birthrate is:",
+     "opts": [
+      "the number of births in a population in a given time",
+      "the number of babies per family",
+      "the age of first reproduction",
+      "the number of deaths per year"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The death rate is:",
+     "opts": [
+      "the number of deaths in a population in a given time",
+      "the average lifespan",
+      "the number of diseases",
+      "the yearly birth rate"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The population of a town increases when:",
+     "opts": [
+      "deaths and emigration are greater than births and immigration",
+      "births and immigration are greater than deaths and emigration",
+      "births equal deaths",
+      "emigration is high"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A population shrinks when:",
+     "opts": [
+      "births are high",
+      "immigration is high",
+      "deaths and emigration are greater than births and immigration",
+      "food is plentiful"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Which of these is NOT one of the four factors that change population size?",
+     "opts": [
+      "birthrate",
+      "emigration",
+      "climate change",
+      "death rate"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A J-shaped growth curve shows:",
+     "opts": [
+      "slow, steady growth",
+      "no growth",
+      "rapid (exponential) growth",
+      "a falling population"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "The human population curve over the last 200 years is best described as:",
+     "opts": [
+      "flat",
+      "J-shaped",
+      "S-shaped and falling",
+      "a straight line down"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A city that gains many immigrants and has a high birthrate will most likely:",
+     "opts": [
+      "shrink",
+      "stay the same",
+      "grow quickly",
+      "lose density"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Population size stays the same when:",
+     "opts": [
+      "gains equal losses",
+      "births stop",
+      "everyone emigrates",
+      "resources run out"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Carrying capacity depends on:",
+     "opts": [
+      "available resources like food, water and space",
+      "the size of the cities",
+      "the weather last week",
+      "the number of schools"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "blanks",
+     "q": "**Immigration** is the movement of individuals into a population."
+    },
+    {
+     "type": "blanks",
+     "q": "**Emigration** is the movement of individuals out of a population."
+    },
+    {
+     "type": "blanks",
+     "q": "**Population density** is the number of individuals living in a given area."
+    },
+    {
+     "type": "blanks",
+     "q": "The four factors that change a population's size are birthrate, death rate, immigration and **emigration**."
+    },
+    {
+     "type": "blanks",
+     "q": "A **J-shaped** growth curve shows very rapid population growth."
+    }
+   ]
+  }
+ ],
+ "decks": [
+  {
+   "id": "20261028-g5",
+   "name": "G5_Hydrosphere_Atmosphere_28Oct.pptx",
+   "file": "G5_Hydrosphere_Atmosphere_28Oct.pptx"
+  },
+  {
+   "id": "20261028-g9",
+   "name": "G9_Human_Population_28Oct.pptx",
+   "file": "G9_Human_Population_28Oct.pptx"
+  }
+ ]
+}
