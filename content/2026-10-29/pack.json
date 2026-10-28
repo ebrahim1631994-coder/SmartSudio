@@ -1,0 +1,780 @@
+{
+ "packs": [
+  {
+   "id": "pre-20261029-g6",
+   "name": "G6 - Inheritance",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "In a Punnett square, each parent gives how many alleles for each gene?",
+     "opts": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "In a BB x bb cross, every child gets the genotype:",
+     "opts": [
+      "BB",
+      "Bb",
+      "bb",
+      "BB or bb"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "In a BB x bb cross (B = brown eyes), what percent of the children have brown eyes?",
+     "opts": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "In a Bb x bb cross, the chance of a bb (blue-eyed) child is:",
+     "opts": [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A cross between Bb and bb produces which two genotypes?",
+     "opts": [
+      "BB and Bb",
+      "BB and bb",
+      "Bb and bb",
+      "Only bb"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Gregor Mendel discovered inheritance patterns by growing which plant?",
+     "opts": [
+      "Rose bushes",
+      "Pea plants",
+      "Wheat fields",
+      "Oak trees"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Mendel built his conclusions by counting traits in:",
+     "opts": [
+      "Five plants",
+      "About fifty plants",
+      "Thousands of plants",
+      "One famous plant"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Which trait pair did Mendel track in his pea plants?",
+     "opts": [
+      "Tall and short stems",
+      "Sweet and sour taste",
+      "Thick and thin roots",
+      "Big and small leaves"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Which of these traits is a person BORN with?",
+     "opts": [
+      "A scar from a fall",
+      "Dimples",
+      "Riding a bike",
+      "Dyed hair"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Which trait did a person GAIN during their life?",
+     "opts": [
+      "Eye color",
+      "Blood type",
+      "Natural hair color",
+      "A scar"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "If a skill or an event caused a trait, that trait is:",
+     "opts": [
+      "Inherited",
+      "Dominant",
+      "Acquired",
+      "Recessive"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Genes are compared to an instruction manual because they:",
+     "opts": [
+      "Store the instructions for building traits",
+      "Make the body glow",
+      "Are read only once",
+      "Are written in ink"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "A trait can skip a generation and appear in a child when:",
+     "opts": [
+      "One parent is homozygous dominant",
+      "The child learns it at school",
+      "The trait mutates every day",
+      "Both parents carry a hidden recessive allele"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "In Mendel's 3:1 ratio from a Tt x Tt cross, the \"1\" plants were:",
+     "opts": [
+      "Tall",
+      "Short",
+      "Medium height",
+      "Seedless"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Why can two brown-eyed parents have a blue-eyed child?",
+     "opts": [
+      "Blue eyes are dominant",
+      "Eye color comes from food",
+      "Each parent can carry a hidden b allele",
+      "Genes skip DNA entirely"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "blanks",
+     "q": "Each parent gives **one** allele for each gene to a child."
+    },
+    {
+     "type": "blanks",
+     "q": "In a BB x bb cross, **100** percent of the children show the dominant trait."
+    },
+    {
+     "type": "blanks",
+     "q": "Mendel grew thousands of **pea** plants and counted their traits."
+    },
+    {
+     "type": "blanks",
+     "q": "A scar or a learned skill is an **acquired** trait."
+    },
+    {
+     "type": "blanks",
+     "q": "In a Bb x bb cross, the chance of a blue-eyed (bb) child is **50** percent."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261029-g7",
+   "name": "G7 - Moving Continents",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Wegener published his book The Origin of Continents and Oceans in:",
+     "opts": [
+      "1912",
+      "1915",
+      "1925",
+      "1960"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Alfred Wegener was a scientist and polar explorer from:",
+     "opts": [
+      "The United States",
+      "Brazil",
+      "Germany",
+      "Egypt"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A hypothesis is:",
+     "opts": [
+      "A proven fact",
+      "A testable explanation that needs evidence",
+      "A guess that needs no evidence",
+      "A scientific law"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The matching coastlines of South America and Africa are, on their own:",
+     "opts": [
+      "Full proof of drifting",
+      "A mechanism",
+      "A theory",
+      "An observation, not full proof"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener was NOT the first to notice the coastlines fit - he was the first to:",
+     "opts": [
+      "Build a full hypothesis around the fit",
+      "Draw a world map",
+      "Sail to Africa",
+      "Name the oceans"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "In science, the explanation of HOW something happens is called the:",
+     "opts": [
+      "Evidence",
+      "Mechanism",
+      "Hypothesis",
+      "Observation"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The correct order in a convection current is:",
+     "opts": [
+      "Hot rock rises, spreads out, cools and sinks",
+      "Rock sinks, rises, cools and spreads",
+      "Rock cools first, then rises",
+      "Rock stays completely still"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The mantle flows very slowly, like:",
+     "opts": [
+      "Water",
+      "Air",
+      "Thick honey",
+      "Ice"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "In this lesson, NEW crust forms where:",
+     "opts": [
+      "Deep ocean trenches",
+      "Mid-ocean ridges",
+      "Sandy beaches",
+      "The North Pole"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Ridge push happens where:",
+     "opts": [
+      "Two continents collide",
+      "Plates sink under cities",
+      "The current rises and plates split apart",
+      "Glaciers melt"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Today, the continents are still moving about:",
+     "opts": [
+      "A few centimeters per year",
+      "A meter per day",
+      "A kilometer per hour",
+      "Not at all"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The thin, hard shell of Earth that we live on is the:",
+     "opts": [
+      "Mantle",
+      "Crust",
+      "Core",
+      "Convection current"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Tectonic plates are giant broken pieces of the:",
+     "opts": [
+      "Core",
+      "Mantle",
+      "Ocean floor only",
+      "Crust"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Pangaea formed about 300 million years ago and began to split about 200 million years ago - so it stayed whole for roughly:",
+     "opts": [
+      "100 million years",
+      "1 million years",
+      "2 billion years",
+      "10 thousand years"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener's story teaches that in science:",
+     "opts": [
+      "The oldest idea always wins",
+      "A good observation still needs a testable mechanism",
+      "Rejection means an idea is wrong forever",
+      "Maps never change"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "blanks",
+     "q": "Wegener's book The Origin of Continents and **Oceans** was published in 1915."
+    },
+    {
+     "type": "blanks",
+     "q": "A **hypothesis** is a testable explanation that needs evidence."
+    },
+    {
+     "type": "blanks",
+     "q": "In a convection current, hot rock rises, spreads out, cools and **sinks**."
+    },
+    {
+     "type": "blanks",
+     "q": "New crust forms at mid-ocean **ridges**."
+    },
+    {
+     "type": "blanks",
+     "q": "The thin, hard shell of Earth that we live on is the **crust**."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261029-g9",
+   "name": "G9 - Human Population",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "The last billion people were added to the human population in only about:",
+     "opts": [
+      "12 years",
+      "1,000 years",
+      "200 years",
+      "12 centuries"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Exponential growth means:",
+     "opts": [
+      "Growth stops completely",
+      "The same number is added every year",
+      "The bigger the population, the faster it adds people",
+      "Only cities grow"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "On the human population curve, the sharp bend upward starts around:",
+     "opts": [
+      "1500",
+      "1800",
+      "2000",
+      "1950"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The death rate fell mainly because of better:",
+     "opts": [
+      "Cars and roads",
+      "Phones and internet",
+      "Medicine, sanitation and farming",
+      "Bigger cities"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Population change equals:",
+     "opts": [
+      "Births minus deaths only",
+      "Immigration only",
+      "Deaths minus births",
+      "(Births + immigration) - (deaths + emigration)"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Resource use rises ____ than the population itself:",
+     "opts": [
+      "Even faster",
+      "More slowly",
+      "At exactly the same rate",
+      "Never"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Growing cities replace:",
+     "opts": [
+      "Deserts and ice",
+      "Forests and farmland",
+      "Oceans",
+      "Mountains"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Which of these is a warning sign of population pressure on the environment?",
+     "opts": [
+      "More forests",
+      "Cleaner rivers",
+      "Waste, pollution and habitat loss",
+      "More farmland"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "\"No unlimited growth\" means every environment has:",
+     "opts": [
+      "Endless resources",
+      "A carrying capacity",
+      "No people",
+      "No animals"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Science helps us plan for population growth with:",
+     "opts": [
+      "Bigger cars",
+      "Clean energy, smart farming and family planning",
+      "Less schooling",
+      "More wars"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Every person needs food, water, energy and:",
+     "opts": [
+      "Gold",
+      "Cars",
+      "Space",
+      "Phones"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Population growth is fastest where:",
+     "opts": [
+      "Birthrates stay high",
+      "Death rates are highest",
+      "Everyone emigrates",
+      "Birthrate equals death rate"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "A pond can support 200 fish, but 250 fish live there. The extra fish:",
+     "opts": [
+      "Increase the carrying capacity",
+      "Exceed the carrying capacity",
+      "Become a new species",
+      "Stop eating"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "For thousands of years, disease, famine and war kept the human population:",
+     "opts": [
+      "High",
+      "Doubling every year",
+      "At zero",
+      "Low"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "In the demographic transition, the correct order is:",
+     "opts": [
+      "High birth and death rates, death rate falls, birth rate falls, both become low",
+      "Both rates low first, then they rise",
+      "Birth rate falls first, then deaths rise",
+      "Only the birth rate ever changes"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "blanks",
+     "q": "The last billion people were added to the human population in only about **12** years."
+    },
+    {
+     "type": "blanks",
+     "q": "**Exponential** growth means the bigger the population, the faster it adds new people."
+    },
+    {
+     "type": "blanks",
+     "q": "Better medicine, sanitation and **farming** cut the death rate."
+    },
+    {
+     "type": "blanks",
+     "q": "Population change = (births + immigration) - (deaths + **emigration**)."
+    },
+    {
+     "type": "blanks",
+     "q": "Waste, pollution and habitat **loss** are warning signs of population pressure."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261029-g10",
+   "name": "G10 - Coping with Stress",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "The hormone released during the stress response is:",
+     "opts": [
+      "Insulin",
+      "Adrenaline",
+      "Vitamin C",
+      "Melatonin"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The body's automatic alarm reaction to a stressor is called:",
+     "opts": [
+      "Rest and digest",
+      "Growth spurt",
+      "Fight or flight",
+      "Sleep mode"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "During the stress response, the heart:",
+     "opts": [
+      "Beats faster",
+      "Stops",
+      "Beats slower",
+      "Shrinks"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The 4-4-4 breathing exercise means:",
+     "opts": [
+      "Run 4 kilometers",
+      "Sleep 4 hours",
+      "Drink 4 cups of water",
+      "Breathe in for 4, hold for 4, out for 4"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "In the coping plan MOVE, TALK, PLAN, RECHARGE - MOVE means:",
+     "opts": [
+      "Move to a new house",
+      "Exercise burns off stress hormones",
+      "Skip the class",
+      "Move the test date"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "TALKING about stress helps because:",
+     "opts": [
+      "It annoys your friends",
+      "It removes the stressor",
+      "Saying it out loud shrinks the stress",
+      "It is assigned homework"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "PLAN beats panic by:",
+     "opts": [
+      "Breaking big tasks into small steps",
+      "Ignoring the tasks",
+      "Deleting homework",
+      "Doing everything at midnight"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "RECHARGE includes:",
+     "opts": [
+      "All-night gaming",
+      "Skipping meals",
+      "Extra caffeine only",
+      "Sleeping well, eating well, breathing slowly and taking screen breaks"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Fight-or-flight is great for real danger but unhelpful when the \"danger\" is:",
+     "opts": [
+      "A fire",
+      "A falling tree",
+      "A math test",
+      "A swerving car"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Which of these is a SHORT-term sign of stress?",
+     "opts": [
+      "Racing heart and sweaty hands",
+      "Weaker immunity over years",
+      "Permanent hair loss",
+      "Broken bones"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Long-term unmanaged stress can weaken:",
+     "opts": [
+      "Immunity",
+      "Bone length",
+      "Shoe size",
+      "Eye color"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Avoiding the problem, overeating and angry outbursts are examples of:",
+     "opts": [
+      "Healthy coping",
+      "The relaxation response",
+      "Unhealthy coping",
+      "Eustress"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "If stress feels too heavy for too long, the right step is to:",
+     "opts": [
+      "Hide it from everyone",
+      "Talk to a trusted adult",
+      "Scroll even more",
+      "Sleep through class"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Asking a trusted adult for help with stress is:",
+     "opts": [
+      "A weakness",
+      "Dangerous",
+      "Cheating",
+      "A strength"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "The real enemy is:",
+     "opts": [
+      "All stress",
+      "Unmanaged stress",
+      "Adrenaline",
+      "Breathing exercises"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "blanks",
+     "q": "**Adrenaline** is the hormone that prepares the body to act during stress."
+    },
+    {
+     "type": "blanks",
+     "q": "The body's stress response is also called fight or **flight**."
+    },
+    {
+     "type": "blanks",
+     "q": "**Exercise** burns off stress hormones and lifts your mood."
+    },
+    {
+     "type": "blanks",
+     "q": "Break big tasks into small **steps** - a plan beats panic."
+    },
+    {
+     "type": "blanks",
+     "q": "If stress feels too heavy for too long, talk to a trusted **adult**."
+    }
+   ]
+  }
+ ],
+ "decks": [
+  {
+   "id": "20261029-g6",
+   "name": "G6_Inheritance_29Oct.pptx",
+   "file": "G6_Inheritance_29Oct.pptx"
+  },
+  {
+   "id": "20261029-g7",
+   "name": "G7_Moving_Continents_29Oct.pptx",
+   "file": "G7_Moving_Continents_29Oct.pptx"
+  }
+ ]
+}
