@@ -1,0 +1,398 @@
+{
+ "packs": [
+  {
+   "id": "pre-20261101-g5",
+   "name": "G5 - Interactions Among Earth's Systems",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Earth's four spheres are the:",
+     "opts": [
+      "Geosphere, hydrosphere, atmosphere, biosphere",
+      "Geosphere, hydrosphere, atmosphere, stratosphere",
+      "Land, sea, sky and space",
+      "Core, mantle, crust and ocean"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The geosphere is:",
+     "opts": [
+      "The air around Earth",
+      "All living things",
+      "The land, rocks and soil",
+      "All the water"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "The hydrosphere includes:",
+     "opts": [
+      "All the water on Earth",
+      "All the gases in the air",
+      "All living things",
+      "Only the frozen ice"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The biosphere is made of:",
+     "opts": [
+      "Rocks and soil",
+      "Water and ice",
+      "Air and wind",
+      "All living things"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "When two spheres interact:",
+     "opts": [
+      "They stop working",
+      "Matter and energy move between them",
+      "They become one sphere",
+      "Nothing changes"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "When the Sun heats the ocean, energy and water vapor pass from:",
+     "opts": [
+      "The atmosphere to the hydrosphere",
+      "The geosphere to the biosphere",
+      "The hydrosphere to the atmosphere",
+      "The biosphere to the geosphere"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Weathering is the:",
+     "opts": [
+      "Carrying away of rock pieces",
+      "Breaking down of rock into smaller pieces",
+      "Dropping of sediment in new places",
+      "Melting of rock"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Erosion is the:",
+     "opts": [
+      "Breaking of rock in place",
+      "Freezing of water in cracks",
+      "Growth of plant roots",
+      "Carrying away of weathered rock and sediment"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Sediment is:",
+     "opts": [
+      "Small pieces of rock, sand and soil",
+      "Hot liquid lava",
+      "Ocean waves",
+      "High mountain tops"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The Grand Canyon was cut by:",
+     "opts": [
+      "A glacier",
+      "Wind alone",
+      "An earthquake",
+      "A river over thousands of years"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Where a river slows down, it drops its sediment and builds:",
+     "opts": [
+      "A volcano",
+      "A delta",
+      "A canyon",
+      "A trench"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Glaciers carve:",
+     "opts": [
+      "Perfect circles",
+      "Narrow cracks",
+      "Caves",
+      "Wide U-shaped valleys"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Water freezing inside rock cracks:",
+     "opts": [
+      "Pushes the cracks wider and breaks the rock",
+      "Melts the rock",
+      "Makes the rock softer",
+      "Changes nothing"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Wind shapes rock surfaces by:",
+     "opts": [
+      "Wetting them",
+      "Blasting them with sand like natural sandpaper",
+      "Freezing them",
+      "Covering them with plants"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Waves slowly wearing away a cliff is an interaction between:",
+     "opts": [
+      "Atmosphere and biosphere",
+      "Geosphere and biosphere",
+      "Hydrosphere and geosphere",
+      "Atmosphere and hydrosphere"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "blanks",
+     "q": "The **geosphere** is Earth's land, rocks and soil."
+    },
+    {
+     "type": "blanks",
+     "q": "All living things together make up the **biosphere**."
+    },
+    {
+     "type": "blanks",
+     "q": "**Weathering** breaks rock into smaller and smaller pieces."
+    },
+    {
+     "type": "blanks",
+     "q": "**Erosion** carries weathered rock and sediment to new places."
+    },
+    {
+     "type": "blanks",
+     "q": "A **glacier** is a river of ice that grinds rock and carves U-shaped valleys."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261101-g7",
+   "name": "G7 - Development of a Theory",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Wegener's hypothesis about moving continents was called:",
+     "opts": [
+      "Continental drift",
+      "Plate tectonics",
+      "Seafloor spreading",
+      "Convection"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Most scientists rejected Wegener's hypothesis because he:",
+     "opts": [
+      "Had no evidence at all",
+      "Could not explain the force that moves the continents",
+      "Never published his book",
+      "Drew the wrong map"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The first sonar seafloor maps shocked scientists because they showed the ocean floor:",
+     "opts": [
+      "Is completely flat",
+      "Has mountains and deep valleys",
+      "Is all coral",
+      "Is always shallow"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener suggested continents plow through the ocean floor - physicists showed this was:",
+     "opts": [
+      "Correct",
+      "Already proven",
+      "Impossible",
+      "Unimportant"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A theory is:",
+     "opts": [
+      "A wild guess",
+      "The same as a hypothesis",
+      "An untested idea",
+      "A well-tested explanation supported by many independent lines of evidence"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "A hypothesis differs from a theory because a hypothesis is:",
+     "opts": [
+      "Still being tested",
+      "Already proven",
+      "Never checked",
+      "Always wrong"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Sonar maps the ocean floor using:",
+     "opts": [
+      "Light beams",
+      "Sound waves",
+      "Magnets",
+      "X-rays"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Sonar measures ocean depth by timing:",
+     "opts": [
+      "The ship's speed",
+      "The water temperature",
+      "The echo returning from the seafloor",
+      "The wind at the surface"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Ships began using sonar to map the seafloor in the:",
+     "opts": [
+      "Mid-1900s",
+      "Mid-1800s",
+      "1910s",
+      "2000s"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Before sonar, people thought the ocean floor was:",
+     "opts": [
+      "Full of mountains",
+      "Flat and featureless",
+      "Made of coral",
+      "Always shallow"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A mid-ocean ridge is:",
+     "opts": [
+      "A deep narrow valley",
+      "A coral reef",
+      "An underwater mountain range",
+      "A sandy beach"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "A deep-sea trench is:",
+     "opts": [
+      "A very deep, narrow valley in the ocean floor",
+      "An underwater mountain",
+      "A type of sonar",
+      "A warm ocean current"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The longest mountain range on Earth is:",
+     "opts": [
+      "The Himalayas",
+      "The Andes",
+      "High on every continent",
+      "Hidden under the oceans"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Ridges and trenches forming a connected global system was the first clue that:",
+     "opts": [
+      "The ocean is shrinking",
+      "The seafloor itself is on the move",
+      "Earth is flat",
+      "The continents are fixed forever"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "On a seafloor profile, the youngest seafloor is found:",
+     "opts": [
+      "Next to the continents",
+      "Inside the trench",
+      "At the beach",
+      "At the mid-ocean ridge"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "blanks",
+     "q": "A **theory** is a well-tested explanation supported by many independent lines of evidence."
+    },
+    {
+     "type": "blanks",
+     "q": "**Sonar** uses sound waves to map the depth and shape of the ocean floor."
+    },
+    {
+     "type": "blanks",
+     "q": "Most scientists rejected continental drift because Wegener could not explain the **force** that moves the continents."
+    },
+    {
+     "type": "blanks",
+     "q": "A long underwater mountain range where new seafloor forms is a mid-ocean **ridge**."
+    },
+    {
+     "type": "blanks",
+     "q": "A very deep, narrow valley in the ocean floor is a deep-sea **trench**."
+    }
+   ]
+  }
+ ],
+ "decks": [
+  {
+   "id": "20261101-g5",
+   "name": "G5_Interactions_01Nov.pptx",
+   "file": "G5_Interactions_01Nov.pptx"
+  },
+  {
+   "id": "20261101-g7",
+   "name": "G7_Development_Theory_01Nov.pptx",
+   "file": "G7_Development_Theory_01Nov.pptx"
+  }
+ ]
+}
