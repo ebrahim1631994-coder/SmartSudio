@@ -1,0 +1,594 @@
+{
+ "packs": [
+  {
+   "id": "pre-20261102-g5",
+   "name": "G5 - Interactions Among Earth's Systems",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "During photosynthesis, plants take in:",
+     "opts": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Sunlight as a gas"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "During photosynthesis, plants release:",
+     "opts": [
+      "Carbon dioxide",
+      "Water vapor",
+      "Oxygen",
+      "Nitrogen"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Animals breathe in oxygen and breathe out:",
+     "opts": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "The gas exchange between plants and animals keeps the atmosphere:",
+     "opts": [
+      "Empty",
+      "Balanced",
+      "Hot",
+      "Frozen"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Which two spheres exchange gases through living things?",
+     "opts": [
+      "Geosphere and hydrosphere",
+      "Biosphere and atmosphere",
+      "Atmosphere and geosphere",
+      "Hydrosphere and biosphere"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Roots growing into cracks and splitting rocks is the biosphere:",
+     "opts": [
+      "Joining the atmosphere",
+      "Heating the hydrosphere",
+      "Weathering the geosphere",
+      "Stopping erosion"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Burrowing animals change the geosphere by:",
+     "opts": [
+      "Mixing and loosening soil",
+      "Melting rocks",
+      "Blocking rivers",
+      "Making oxygen"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Beavers change rivers by:",
+     "opts": [
+      "Drinking the water",
+      "Cutting trees only",
+      "Digging oceans",
+      "Building dams"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "A hurricane starts over:",
+     "opts": [
+      "Warm ocean water",
+      "Cold land",
+      "High mountains",
+      "Dry deserts"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "A hurricane's winds and floods can:",
+     "opts": [
+      "Erode coastlines and uproot trees",
+      "Build new mountains",
+      "Freeze the ocean",
+      "Create deserts"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "A volcanic eruption sends gases and ash into the:",
+     "opts": [
+      "Hydrosphere",
+      "Geosphere",
+      "Atmosphere",
+      "Biosphere only"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Clean air, fresh water and soil are all examples of:",
+     "opts": [
+      "Impacts",
+      "Spheres",
+      "Pollution",
+      "Resources"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Air pollution can end up in the:",
+     "opts": [
+      "Ocean only",
+      "Air only",
+      "Rocks only",
+      "Water and soil"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Planting trees along a river helps the water because roots:",
+     "opts": [
+      "Drink the river",
+      "Hold the soil so less sediment washes in",
+      "Block the sunlight",
+      "Warm the water"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A strong effect one thing has on another is called an:",
+     "opts": [
+      "Interaction only",
+      "Exchange",
+      "Impact",
+      "Erosion"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "blanks",
+     "q": "During **photosynthesis**, plants take in carbon dioxide and release oxygen."
+    },
+    {
+     "type": "blanks",
+     "q": "Plants release **oxygen** into the atmosphere."
+    },
+    {
+     "type": "blanks",
+     "q": "Animals breathe out **carbon dioxide**."
+    },
+    {
+     "type": "blanks",
+     "q": "Clean air, fresh water and soil are **resources** people and living things use."
+    },
+    {
+     "type": "blanks",
+     "q": "Plant **roots** can grow into cracks and split rocks."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261102-g6",
+   "name": "G6 - Types of Reproduction",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Asexual reproduction needs:",
+     "opts": [
+      "Two parents",
+      "Only one parent",
+      "A mate and fertilization",
+      "Special reproductive cells"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The offspring of asexual reproduction are:",
+     "opts": [
+      "Genetically identical to the parent",
+      "A mix of two parents' genes",
+      "Always weaker than the parent",
+      "Different from each other"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "In binary fission:",
+     "opts": [
+      "A bud grows on the parent",
+      "Two cells join together",
+      "A piece regrows a whole body",
+      "One cell splits into two identical cells"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Which organism reproduces by binary fission?",
+     "opts": [
+      "Yeast",
+      "Hydra",
+      "Bacteria",
+      "Starfish"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Budding is when:",
+     "opts": [
+      "The parent splits in two",
+      "Seeds spread by wind",
+      "A small bud grows on the parent's body and breaks away",
+      "A cut piece regrows"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Yeast and hydra reproduce by:",
+     "opts": [
+      "Budding",
+      "Binary fission",
+      "Regeneration",
+      "Vegetative propagation"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "After a bud detaches, the parent:",
+     "opts": [
+      "Dies",
+      "Stays alive and can bud again",
+      "Becomes a gamete",
+      "Stops growing"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Strawberry runners and potato eyes are examples of:",
+     "opts": [
+      "Regeneration",
+      "Binary fission",
+      "Budding",
+      "Vegetative propagation"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "A starfish regrowing a whole body from one arm is:",
+     "opts": [
+      "Budding",
+      "Fission",
+      "Fertilization",
+      "Regeneration"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Offspring that are genetically identical to the parent are called:",
+     "opts": [
+      "Hybrids",
+      "Clones",
+      "Gametes",
+      "Zygotes"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Bacterial infections can spread so fast because bacteria:",
+     "opts": [
+      "Need a mate",
+      "Grow buds",
+      "Make seeds",
+      "Divide by fission within minutes"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "A plant cutting that grows into a new plant is:",
+     "opts": [
+      "A new species",
+      "A mix of two parents",
+      "A genetic copy of the parent plant",
+      "A seedling"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Asexual reproduction does NOT need:",
+     "opts": [
+      "A mate or fertilization",
+      "DNA copying",
+      "A parent",
+      "Cell division"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "A planarian cut in half becomes two complete planaria by:",
+     "opts": [
+      "Budding",
+      "Vegetative propagation",
+      "Regeneration",
+      "Binary fission"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Asexual reproduction can quickly populate a habitat because:",
+     "opts": [
+      "It needs two parents",
+      "It is very slow",
+      "It needs special cells",
+      "It needs only one parent"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "blanks",
+     "q": "**Binary fission** is when one cell splits into two identical cells."
+    },
+    {
+     "type": "blanks",
+     "q": "Yeast and hydra reproduce by **budding**."
+    },
+    {
+     "type": "blanks",
+     "q": "A new plant growing from a strawberry runner is vegetative **propagation**."
+    },
+    {
+     "type": "blanks",
+     "q": "A starfish regrowing a whole body from an arm is **regeneration**."
+    },
+    {
+     "type": "blanks",
+     "q": "Asexual reproduction produces offspring that are genetically **identical** to the parent."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261102-g7",
+   "name": "G7 - Development of a Theory",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Seafloor spreading was proposed in the 1960s by:",
+     "opts": [
+      "Alfred Wegener",
+      "Charles Darwin",
+      "Isaac Newton",
+      "Harry Hess"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "New ocean crust forms at:",
+     "opts": [
+      "Deep-sea trenches",
+      "Continental coasts",
+      "Mid-ocean ridges",
+      "The equator"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "As new crust forms at a ridge, it:",
+     "opts": [
+      "Pushes older crust away on both sides",
+      "Sinks immediately",
+      "Stays at the ridge forever",
+      "Melts the continents"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Seafloor spreading moves crust about as fast as:",
+     "opts": [
+      "A car drives",
+      "A snail races",
+      "Fingernails grow",
+      "A river flows"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "As new crust cools, its iron minerals:",
+     "opts": [
+      "Melt away",
+      "Lock in the direction of Earth's magnetic field",
+      "Turn into gold",
+      "Stop moving"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The magnetic stripes on the seafloor show alternating:",
+     "opts": [
+      "Normal and reversed magnetism",
+      "Colors",
+      "Rock types",
+      "Ages only"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The magnetic stripes on the two sides of a ridge:",
+     "opts": [
+      "Are random",
+      "Are identical ages only",
+      "Mirror each other",
+      "Point to the poles"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "The seafloor acts like a tape recorder because it:",
+     "opts": [
+      "Plays sounds",
+      "Stores ship songs",
+      "Records fish calls",
+      "Records millions of years of magnetic flips"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Drilling ships dated seafloor rocks and found:",
+     "opts": [
+      "All seafloor is the same age",
+      "The seafloor gets older with distance from the ridge",
+      "The seafloor is oldest at the ridge",
+      "Rocks cannot be dated"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "No seafloor is older than about:",
+     "opts": [
+      "2 billion years",
+      "4.5 billion years",
+      "200 million years",
+      "1 million years"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Old seafloor disappears into:",
+     "opts": [
+      "Mid-ocean ridges",
+      "Deep-sea trenches",
+      "Beaches",
+      "Volcanic islands"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The theory that Earth's outer shell is broken into moving plates is:",
+     "opts": [
+      "Continental drift",
+      "Plate tectonics",
+      "Seafloor spreading",
+      "Magnetism"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The three independent lines of evidence for seafloor spreading are:",
+     "opts": [
+      "Magnetism, rock ages and topography",
+      "Fossils, plants and weather",
+      "Waves, tides and wind",
+      "Maps, ships and fish"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Plate tectonics supplied the missing piece in Wegener's idea - the:",
+     "opts": [
+      "Fossil evidence",
+      "Mechanism that moves the continents",
+      "First world map",
+      "Age of Earth"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "When two plates converge, they:",
+     "opts": [
+      "Move apart",
+      "Stay still",
+      "Disappear",
+      "Move together"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "blanks",
+     "q": "**Seafloor spreading** happens when new ocean crust forms at mid-ocean ridges and moves away on both sides."
+    },
+    {
+     "type": "blanks",
+     "q": "Earth's magnetic field flips north and south from time to time in a magnetic **reversal**."
+    },
+    {
+     "type": "blanks",
+     "q": "Alternating bands of normal and reversed magnetism on the seafloor are called magnetic **stripes**."
+    },
+    {
+     "type": "blanks",
+     "q": "The magnetic stripes on the two sides of a ridge **mirror** each other."
+    },
+    {
+     "type": "blanks",
+     "q": "**Plate tectonics** is the theory that Earth's outer shell is broken into moving plates."
+    }
+   ]
+  }
+ ],
+ "decks": [
+  {
+   "id": "20261102-g5",
+   "name": "G5_Interactions_02Nov.pptx",
+   "file": "G5_Interactions_02Nov.pptx"
+  },
+  {
+   "id": "20261102-g6",
+   "name": "G6_Types_Reproduction_02Nov.pptx",
+   "file": "G6_Types_Reproduction_02Nov.pptx"
+  },
+  {
+   "id": "20261102-g7",
+   "name": "G7_Development_Theory_02Nov.pptx",
+   "file": "G7_Development_Theory_02Nov.pptx"
+  }
+ ]
+}
