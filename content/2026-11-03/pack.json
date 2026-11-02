@@ -1,0 +1,976 @@
+{
+ "packs": [
+  {
+   "id": "pre-20261103-g5",
+   "name": "G5 - Interactions Among Earth's Systems",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When matter or energy moves between two spheres, the spheres are:",
+     "opts": [
+      "Interacting",
+      "Disappearing",
+      "Melting",
+      "Freezing"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Rivers, lakes, oceans and ice all belong to the:",
+     "opts": [
+      "Geosphere",
+      "Hydrosphere",
+      "Atmosphere",
+      "Biosphere"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The atmosphere is Earth's:",
+     "opts": [
+      "Rock layer",
+      "Water supply",
+      "Blanket of gases",
+      "Living layer"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "All living things together form the:",
+     "opts": [
+      "Geosphere",
+      "Atmosphere",
+      "Hydrosphere",
+      "Biosphere"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Ice cracking a rock is an example of:",
+     "opts": [
+      "Erosion",
+      "Deposition",
+      "Weathering",
+      "Photosynthesis"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Erosion carries sediment away using:",
+     "opts": [
+      "Water, wind or ice",
+      "Sunlight only",
+      "Sound waves",
+      "Magnetism"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "A fan of dropped sediment at a river's mouth is a:",
+     "opts": [
+      "Canyon",
+      "Glacier",
+      "Delta",
+      "Dune"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Which landform does a glacier carve?",
+     "opts": [
+      "Delta",
+      "Sand dune",
+      "Beach",
+      "U-shaped valley"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "A forest changes the atmosphere by:",
+     "opts": [
+      "Releasing oxygen",
+      "Removing all carbon",
+      "Adding smoke",
+      "Heating clouds"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Without plants, the atmosphere could not:",
+     "opts": [
+      "Hold clouds",
+      "Support animal life",
+      "Block wind",
+      "Make rain"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "People reshape land and water through:",
+     "opts": [
+      "Sleeping",
+      "Reading",
+      "Farming, building and mining",
+      "Traveling"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Following one natural event through all four spheres helps scientists:",
+     "opts": [
+      "Ignore the event",
+      "Understand its full impact",
+      "Stop all events",
+      "Control the weather"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Damaging one sphere often:",
+     "opts": [
+      "Helps the others",
+      "Harms the other spheres too",
+      "Has no effect",
+      "Fixes pollution"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Which action protects Earth's resources?",
+     "opts": [
+      "Cutting all forests",
+      "Saving water",
+      "Burning more fuel",
+      "Wasting food"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Understanding sphere interactions helps people:",
+     "opts": [
+      "Stop all storms",
+      "Live without water",
+      "Control animals",
+      "Protect resources like air, water and soil"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "blanks",
+     "q": "A **delta** is built from sediment dropped where a river slows down."
+    },
+    {
+     "type": "blanks",
+     "q": "The **atmosphere** is the blanket of gases surrounding Earth."
+    },
+    {
+     "type": "blanks",
+     "q": "**Deposition** happens when eroded sediment is dropped in a new place."
+    },
+    {
+     "type": "blanks",
+     "q": "Roots, burrowing animals and people all change the **geosphere**."
+    },
+    {
+     "type": "blanks",
+     "q": "Planting trees and saving water help **protect** Earth's resources."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261103-g6",
+   "name": "G6 - Types of Reproduction",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Sexual reproduction needs:",
+     "opts": [
+      "One parent",
+      "Two parents",
+      "No parents",
+      "Budding"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A gamete is:",
+     "opts": [
+      "A reproductive cell",
+      "A body organ",
+      "A type of clone",
+      "A fertilized egg"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Sperm and egg are examples of:",
+     "opts": [
+      "Zygotes",
+      "Clones",
+      "Gametes",
+      "Buds"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Fertilization is when:",
+     "opts": [
+      "A sperm cell joins an egg cell",
+      "A cell splits in two",
+      "A bud detaches",
+      "A runner roots"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The fertilized egg is called a:",
+     "opts": [
+      "Gamete",
+      "Bud",
+      "Zygote",
+      "Spore"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Each gamete carries:",
+     "opts": [
+      "All of the parent's genes",
+      "No genes",
+      "Half of the parent's genes",
+      "Double the genes"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Offspring of two parents are genetically unique because they get:",
+     "opts": [
+      "Identical DNA",
+      "No DNA",
+      "Only the mother's genes",
+      "A new mix of both parents' genes"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Siblings usually look different because each receives:",
+     "opts": [
+      "Identical alleles",
+      "A different shuffled set of alleles",
+      "No alleles",
+      "The same gametes"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "In most fish and frogs, fertilization happens:",
+     "opts": [
+      "Internally",
+      "Externally in the water",
+      "By budding",
+      "By runners"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "In plants, pollen carries the:",
+     "opts": [
+      "Male gametes to the female part of the flower",
+      "Eggs to the roots",
+      "Water to petals",
+      "Food to seeds"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "After fertilization, the zygote:",
+     "opts": [
+      "Divides again and again as growth begins",
+      "Becomes a gamete",
+      "Stops dividing",
+      "Turns into a bud"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Genetic variation helps a population because:",
+     "opts": [
+      "All members share one weakness",
+      "It stops all disease",
+      "It slows growth",
+      "Some variants may cope better if conditions change"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "A population of clones is at risk because:",
+     "opts": [
+      "They reproduce too fast",
+      "They eat too much",
+      "One disease can threaten them all",
+      "They are too different"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Compared with asexual reproduction, sexual reproduction:",
+     "opts": [
+      "Is faster and needs no mate",
+      "Is identical",
+      "Never happens in plants",
+      "Is slower and needs a mate, but builds variation"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Aphids cloning in summer and mating in fall shows that:",
+     "opts": [
+      "Some organisms use both strategies",
+      "Asexual reproduction is always best",
+      "Sexual reproduction is always best",
+      "Cloning is sexual reproduction"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "blanks",
+     "q": "A **gamete** is a reproductive cell, such as a sperm or an egg."
+    },
+    {
+     "type": "blanks",
+     "q": "**Fertilization** joins a sperm cell and an egg cell."
+    },
+    {
+     "type": "blanks",
+     "q": "The **zygote** is the first cell of a new organism."
+    },
+    {
+     "type": "blanks",
+     "q": "Differences in genes between individuals of the same species are genetic **variation**."
+    },
+    {
+     "type": "blanks",
+     "q": "**Sexual** reproduction mixes the genes of two parents."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261103-g7",
+   "name": "G7 - Development of a Theory",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "A hypothesis becomes a theory after:",
+     "opts": [
+      "One guess",
+      "Surviving many tests with strong evidence",
+      "One experiment",
+      "A vote"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener collected evidence from fossils, rocks and:",
+     "opts": [
+      "Climate",
+      "Ships",
+      "Computers",
+      "Satellites"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Sonar revealed which two major seafloor features?",
+     "opts": [
+      "Ridges and trenches",
+      "Islands and reefs",
+      "Beaches and cliffs",
+      "Volcanoes and rivers"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Harry Hess supplied the missing mechanism by proposing:",
+     "opts": [
+      "Continental drift",
+      "Seafloor spreading",
+      "Magnetism",
+      "Evolution"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Hot rock rising and cooling at a mid-ocean ridge creates:",
+     "opts": [
+      "Beach sand",
+      "Coral reefs",
+      "New ocean crust",
+      "Sea salt"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "The crust on the two sides of a mid-ocean ridge moves:",
+     "opts": [
+      "Toward the ridge",
+      "Away from the ridge",
+      "In circles",
+      "Nowhere"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The seafloor's striped magnetic pattern comes from repeated:",
+     "opts": [
+      "Ocean tides",
+      "Magnetic reversals",
+      "Earthquakes",
+      "Storms"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Stripes that mirror across a ridge prove the crust:",
+     "opts": [
+      "Is one solid piece",
+      "Never changes",
+      "Is young everywhere",
+      "Moves apart on both sides"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Rock dating shows the oldest seafloor lies:",
+     "opts": [
+      "At the ridge",
+      "Under beaches",
+      "Far from the ridge",
+      "At the equator"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Continents are far older than any seafloor because old seafloor:",
+     "opts": [
+      "Floats away",
+      "Turns to sand",
+      "Freezes solid",
+      "Disappears into trenches"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Which theory explains ridges, trenches, earthquakes and volcanoes together?",
+     "opts": [
+      "Continental drift",
+      "Plate tectonics",
+      "Evolution",
+      "Gravity"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "By the late 1960s, plate tectonics was accepted because:",
+     "opts": [
+      "One scientist demanded it",
+      "Books said so",
+      "Several evidence lines converged",
+      "The maps looked nice"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Wegener's rejected idea became the core of modern geology once science found:",
+     "opts": [
+      "The mechanism he was missing",
+      "New fossils only",
+      "Different continents",
+      "Bigger maps"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "When plates diverge, they move:",
+     "opts": [
+      "Together",
+      "Up",
+      "Down",
+      "Apart"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "The story from drift to plate tectonics shows that theories:",
+     "opts": [
+      "Never change",
+      "Grow stronger as evidence accumulates",
+      "Are right immediately",
+      "Need no evidence"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "blanks",
+     "q": "A **hypothesis** is an early idea that still needs testing."
+    },
+    {
+     "type": "blanks",
+     "q": "Timing echoes of sound waves to measure ocean depth is called **sonar**."
+    },
+    {
+     "type": "blanks",
+     "q": "Harry **Hess** proposed seafloor spreading in the 1960s."
+    },
+    {
+     "type": "blanks",
+     "q": "The crust moves away from a ridge at only a few **centimeters** per year."
+    },
+    {
+     "type": "blanks",
+     "q": "Plates that move toward each other are said to **converge**."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261103-g9",
+   "name": "G9 - Biodiversity",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Biodiversity means:",
+     "opts": [
+      "The variety of life at genetic, species and ecosystem levels",
+      "Only rare animals",
+      "One kind of plant",
+      "Counting birds"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Different alleles within one species make up:",
+     "opts": [
+      "Ecosystem diversity",
+      "Genetic diversity",
+      "Species richness",
+      "Evenness"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Species diversity includes both:",
+     "opts": [
+      "Genes and alleles",
+      "Hotspots and parks",
+      "Richness and evenness",
+      "Land and sea"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Species richness is:",
+     "opts": [
+      "How balanced species' numbers are",
+      "How many species live in a community",
+      "The size of the area",
+      "The age of the ecosystem"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Evenness describes:",
+     "opts": [
+      "How many species",
+      "How balanced the numbers of each species are",
+      "How rare a hotspot is",
+      "How old species are"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The variety of deserts, reefs, forests and wetlands in a region is:",
+     "opts": [
+      "Genetic diversity",
+      "Species richness",
+      "Ecosystem diversity",
+      "Evenness"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Scientists measure biodiversity by:",
+     "opts": [
+      "Guessing from maps",
+      "Sampling plots, nets or transects and counting species and individuals",
+      "Asking tourists",
+      "Watching TV"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Two forests can have the same richness but different:",
+     "opts": [
+      "Evenness",
+      "Climate",
+      "Latitude",
+      "Altitude"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Diverse ecosystems are more stable because:",
+     "opts": [
+      "They have no predators",
+      "They never change",
+      "They are bigger",
+      "If one species drops, others can fill its role"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Pollination and water purification are examples of:",
+     "opts": [
+      "Ecosystem services",
+      "Hotspots",
+      "Alleles",
+      "Transects"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Many medicines started as:",
+     "opts": [
+      "Lab plastics",
+      "Minerals",
+      "Natural compounds in wild species",
+      "Sea water"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Crop wild relatives help food security by carrying genes for:",
+     "opts": [
+      "Drought and disease resistance",
+      "Faster cars",
+      "Bigger cities",
+      "Sweeter soda"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "A biodiversity hotspot is a region that:",
+     "opts": [
+      "Is very hot",
+      "Has only one species",
+      "Is a volcano",
+      "Has many species found nowhere else and is under heavy threat"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Protecting hotspots first is smart because it saves:",
+     "opts": [
+      "The most irreplaceable life per hectare",
+      "Money only",
+      "Time only",
+      "Tourist sites"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Most of Earth's species are:",
+     "opts": [
+      "Fully described",
+      "In zoos",
+      "Extinct",
+      "Still undescribed by science"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "blanks",
+     "q": "**Biodiversity** is the variety of life at genetic, species and ecosystem levels."
+    },
+    {
+     "type": "blanks",
+     "q": "Different alleles within one species give it **genetic** diversity."
+    },
+    {
+     "type": "blanks",
+     "q": "Species **richness** counts how many species live in a community."
+    },
+    {
+     "type": "blanks",
+     "q": "**Evenness** describes how balanced the numbers of each species are."
+    },
+    {
+     "type": "blanks",
+     "q": "A **hotspot** holds many species found nowhere else and is under heavy threat."
+    }
+   ]
+  },
+  {
+   "id": "pre-20261103-g10",
+   "name": "G10 - Coping with Stress",
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Coping skills work like sports skills - they:",
+     "opts": [
+      "Fail under pressure if never trained",
+      "Work best untrained",
+      "Need no practice",
+      "Are genetic"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "The deep-breathing reset is: in through the nose 4 counts, hold 2, out through the mouth:",
+     "opts": [
+      "2",
+      "6",
+      "8",
+      "10"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The breathing reset should be repeated:",
+     "opts": [
+      "Once",
+      "Twenty times",
+      "Five times",
+      "Never"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "In progressive muscle relaxation, you tense each muscle group for 5 seconds then:",
+     "opts": [
+      "Hold for a minute",
+      "Sleep",
+      "Run",
+      "Release for 10 seconds"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "Muscle relaxation moves from your:",
+     "opts": [
+      "Head to your hands",
+      "Feet up to your face",
+      "Hands to feet",
+      "Neck down only"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "The first time-management step is to:",
+     "opts": [
+      "List everything due and mark urgent versus important",
+      "Panic",
+      "Skip sleep",
+      "Scroll more"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Big tasks should be broken into:",
+     "opts": [
+      "25-minute blocks with 5-minute breaks",
+      "3-hour marathons",
+      "10-second sprints",
+      "Yearly goals"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Sleep and meals should be scheduled:",
+     "opts": [
+      "Last",
+      "First",
+      "Never",
+      "Only on weekends"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "A written plan lowers stress because it:",
+     "opts": [
+      "Removes the mental load of remembering",
+      "Adds more work",
+      "Looks nice",
+      "Impresses teachers"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "Normal stress usually:",
+     "opts": [
+      "Lasts for months",
+      "Never fades",
+      "Gets worse daily",
+      "Fades after the cause passes"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "mcq",
+     "q": "A warning sign that someone needs support is:",
+     "opts": [
+      "One bad day",
+      "Finishing homework early",
+      "Weeks of poor sleep",
+      "Playing sports"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "Talking to a trusted adult or counselor is:",
+     "opts": [
+      "A weakness",
+      "A failure",
+      "A strength",
+      "Embarrassing"
+     ],
+     "ans": 2
+    },
+    {
+     "type": "mcq",
+     "q": "If a friend shares dark thoughts with you, you should:",
+     "opts": [
+      "Keep it secret",
+      "Walk with them to a trusted adult",
+      "Ignore them",
+      "Post about it"
+     ],
+     "ans": 1
+    },
+    {
+     "type": "mcq",
+     "q": "Daily movement like walking or stretching:",
+     "opts": [
+      "Burns off the stress response",
+      "Causes stress",
+      "Weakens muscles",
+      "Ruins sleep"
+     ],
+     "ans": 0
+    },
+    {
+     "type": "mcq",
+     "q": "A tired brain tends to read every problem as:",
+     "opts": [
+      "Smaller",
+      "Funny",
+      "Easy",
+      "Bigger than it is"
+     ],
+     "ans": 3
+    },
+    {
+     "type": "blanks",
+     "q": "Breathe in through the nose for 4 counts, hold 2, and out through the mouth for **6**."
+    },
+    {
+     "type": "blanks",
+     "q": "**Progressive** muscle relaxation tenses then releases each muscle group."
+    },
+    {
+     "type": "blanks",
+     "q": "Schedule **sleep** and meals first, not last."
+    },
+    {
+     "type": "blanks",
+     "q": "Stress that continues for weeks is ongoing **distress** - time to seek support."
+    },
+    {
+     "type": "blanks",
+     "q": "Talking to a trusted adult or counselor is a **strength**, not a failure."
+    }
+   ]
+  }
+ ],
+ "decks": [
+  {
+   "id": "20261103-g6",
+   "name": "G6_Types_Reproduction_03Nov.pptx",
+   "file": "G6_Types_Reproduction_03Nov.pptx"
+  },
+  {
+   "id": "20261103-g9",
+   "name": "G9_Biodiversity_03Nov.pptx",
+   "file": "G9_Biodiversity_03Nov.pptx"
+  },
+  {
+   "id": "20261103-g10",
+   "name": "G10_Coping_Stress_03Nov.pptx",
+   "file": "G10_Coping_Stress_03Nov.pptx"
+  }
+ ]
+}
